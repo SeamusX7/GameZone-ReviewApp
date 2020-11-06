@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Review app from tutorial by the net ninja on youtube. \nFirst look at react native"
   }
 }
